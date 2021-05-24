@@ -1,4 +1,5 @@
-# Base Model of Tomasulo machine, It is single memory access and using only R-format instructions from RISC-V ISA
+# Processor Architecture - Assignment 1
+## Base Model of Tomasulo machine, It is single memory access and using only R-format instructions from RISC-V ISA
 ### How to run the code :
 
 * tomasulo.py file is main file which integrates with other classes

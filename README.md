@@ -10,6 +10,6 @@
 ___
 ### Future Improvements
 * Make the code compatible for Store instruction
-* Make thr code compatible for other instruction format types
+* Make the code compatible for other instruction format types
 * Better output format 
 ___
